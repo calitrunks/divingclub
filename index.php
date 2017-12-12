@@ -71,19 +71,19 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
     <!-- Content -->
     <section id="content">
       <div class="container_12">
-        <article class="a1">
-          <div class="wrapper"> <img src="images/page1-img1.png" alt="" class="img-indent">
-            <div class="extra-wrap">
+        <article class="a1">         
+            <div class="wrapper"> <img src="images/page1-img1.png" alt="" class="img-indent">
+            <div class="extra-wrap">          
+              <h3> <span class="welcome">Bienvenido</span> AL MARAVILLOSO MUNDO DE LOS AVENTUREROS </h3>
+              <p class="p1">SomosAventureros.cl nace como una iniciativa de un grupo de lideres de aventureros de la MCHP en Chile que deseamos entregar una plataforma que nos permita intercambiar experiencias, acceder a materiales de trabajo, enterarnos de todo lo que esta pasando con el club de Aventureros y apoyar humildemente a su crecimiento en Chile y la DSA, recordando siempre nuestro voto <b><i>"Por amor a Jesús haré siempre lo mejor."</i></b> </p>
               <!--Inicio Like Facebook-->
               <div class="fb-like" data-href="https://www.facebook.com/Somos-Aventureros-1605001029758668/?fref=ts" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
               <!--Fin Like Facebook-->
-              <h3> <span class="welcome">Bienvenidos</span> AL MARAVILLOSO MUNDO DE LOS AVENTUREROS </h3>
-              <p class="p1">SomosAventureros.cl nace como una iniciativa de un grupo de lideres de aventureros de la MCHP en Chile que deseamos entregar una plataforma que nos permita intercambiar experiencias, acceder a materiales de trabajo, enterarnos de todo lo que esta pasando con el club de Aventureros y apoyar humildemente a su crecimiento en Chile y la DSA, recordando siempre nuestro voto <b>"Por amor a Jesús haré siempre lo mejor."</b> </p>
             </div>
           </div>
         </article>
         <article class="content-box">
-          <h3 class="hp-1">Ultimas Novedades:</h3>
+          <h3 class="hp-1">Lo mas reciente:</h3>
           <div class="wrapper">
             <div class="col-2">
               <figure class="img-box"> <img src="images/page1-img4.jpg" alt=""> </figure>

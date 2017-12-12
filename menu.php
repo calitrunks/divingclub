@@ -35,7 +35,7 @@
               <li> <a href="castorcitos-manual-admnistrativo.php">Manual Administrativo</a></li>
             </ul>
           </li>
-          <!-- <li> <a href="nuestro-equipo.php">Nuestro Equipo</a></li> -->
+          <li> <a href="nuestro-equipo.php">Nuestro Equipo</a></li> 
           <li> <a href="recursos-para-el-club-de-aventureros.php">Recursos</a>
              <ul>
               <li><a href="recursos-para-el-club-de-aventureros-liderazgo.php">Liderazgo</a></li>
