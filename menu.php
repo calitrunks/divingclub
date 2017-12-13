@@ -1,3 +1,13 @@
+<style>
+  .boton{
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #E21D30;
+    color: #FFF !important;
+  }
+
+</style>
 <header>
       <nav>
         <ul class="sf-menu">
@@ -8,7 +18,7 @@
               <li><a href="ideales-del-club-aventureros.php">Ideales</a></li>
               <li> <a href="himno-del-club-aventureros.php">Himno</a></li>
               <li> <a href="uniforme-y-emblemas-del-club-aventureros.php">Uniforme y Emblemas</a></li>
-              <li> <a href="lideres-aventureros-dsa-y-union-chilena.php">Lideres DSA/Chile</a></li>
+              <!--<li> <a href="lideres-aventureros-dsa-y-union-chilena.php">Lideres DSA/Chile</a></li>-->
             </ul>
           </li>
           <li> <a href="#">Clases</a>
@@ -35,7 +45,7 @@
               <li> <a href="castorcitos-manual-admnistrativo.php">Manual Administrativo</a></li>
             </ul>
           </li>
-          <li> <a href="nuestro-equipo.php">Nuestro Equipo</a></li> 
+          <!--<li> <a href="nuestro-equipo.php">Nuestro Equipo</a></li> -->
           <li> <a href="recursos-para-el-club-de-aventureros.php">Recursos</a>
              <ul>
               <li><a href="recursos-para-el-club-de-aventureros-liderazgo.php">Liderazgo</a></li>
@@ -48,6 +58,7 @@
               <li><a href="entrevista-del-mes.php">La Entrevista del Mes</a></li>
             </ul> 
           </li>
+          <li><a class="boton" href="#">Comunidad</a></li>
         </ul>
       </nav>
       <div class="clear"></div>
