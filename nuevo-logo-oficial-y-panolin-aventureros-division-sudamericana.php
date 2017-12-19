@@ -53,8 +53,9 @@
 
         <h5>MATERIAL OFICIAL - NUEVOS LOGOS Y PAÑOLIN PARA LA DSA</h5>
         <!--<p><img class="img-box" src="images/recursos/lideres.png" /></p>-->
-        <p>La DSA acaba de publicar una primera versión con los diseños oficiales del nuevo logo de aventureros y color de pañolin para los Aventureros en Sudamerica, en el marco del voto de la Asociación General para unificar los emblemas del club de aventureros a nivel mundial. Pueden ver los detalles en el siguiente link</p>        
-        <p><a target="_blank" href="https://drive.google.com/file/d/1Y7Nf6igMwquJoWlWciUcZndbHxTqJFdb/view?usp=sharing"><strong>DESCARGAR</strong></a></p>
+        <p>La DSA acaba de publicar una primera versión con los diseños oficiales del nuevo logo de aventureros y color de pañolin para los Aventureros en Sudamerica, en el marco del voto de la Asociación General para unificar los emblemas del club de aventureros a nivel mundial. Pueden ver los detalles en el siguiente video del Pr Udolcy, Lider delos Aventureros para Sudamerica</p>        
+        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/J1_PzEji7KM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></p>
+        <p><a target="_blank" href="https://drive.google.com/file/d/1Y7Nf6igMwquJoWlWciUcZndbHxTqJFdb/view?usp=sharing"><strong>DESCARGA EL DOCUMENTO AQUI</strong></a></p>
         <!--Inicio Like Facebook-->
         <div class="fb-like" data-href="nuevo-logo-oficial-y-panolin-aventureros-division-sudamericana.php" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
         <!--Fin Like Facebook-->
