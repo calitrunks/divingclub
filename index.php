@@ -53,7 +53,7 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
       <ul class="items">
        <li><img src="images/slide-2.jpg" alt="">
           <div class="banner"><div class="trans-slider"><span class="row-1">
-          <a target="_blank" href="#">UNETE A LA COMUNIDAD</span><span class="row-2">
+          <a target="_blank" href="https://www.facebook.com/groups/134523057239414">UNETE A LA COMUNIDAD</span><span class="row-2">
           <b>PODRAS COMPARTIR MATERIAL, EXPERIENCIAS Y MAS</b></a></span></div></div>
        </li> 
        <li><img src="images/slide-1.jpg" alt="">

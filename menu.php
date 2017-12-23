@@ -58,7 +58,7 @@
               <li><a href="entrevista-del-mes.php">La Entrevista del Mes</a></li>
             </ul> 
           </li>
-          <li><a class="boton" href="#">Comunidad</a></li>
+          <li><a class="boton" target="_blank" href="https://www.facebook.com/groups/134523057239414">Comunidad</a></li>
         </ul>
       </nav>
       <div class="clear"></div>
