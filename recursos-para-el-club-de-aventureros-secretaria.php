@@ -6,11 +6,11 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Language" content="es"/>
 <meta name="Keywords" content="Castorcitos,Club,Aventureros, Informes, Secretaria,
-Fichas, Inscripcion, Afiche Inscripcion"/>
+Fichas, Inscripcion, Afiche Inscripcion, logos aventureros 2018 alta calidad"/>
 <meta name="Description" content="Club de Aventureros, 
 Recursos para el club de aventureros,Recursos para lideres de 
 aventureros, Secretaria club de aventureros, fichas de inscripción de aventureros,
-certificados de especialidad "/>
+certificados de especialidad, logos aventureros 2018 alta calidad "/>
 <meta name="Distribution" content="global"/>
 <meta name="Robots" content="all"/>
 <!--FIN METAS-->
@@ -36,6 +36,14 @@ certificados de especialidad "/>
   ga('send', 'pageview');
 
 </script>
+<style>
+  h5{
+    font-weight: bold;
+  }
+  h6{
+    font-weight: bold;
+  }
+</style>
 </head>
 <body>
 <!-- Inicio Script Para Me Gusta Facebook -->
@@ -65,6 +73,29 @@ certificados de especialidad "/>
                 <table width="75%">
                 <tr>
                     <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/logos.png" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>LOGOS AVENTUREROS 2018 ALTA CALIDAD</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">Gracias al aporte de nuestro amigo Eduardo Grados les compartimos este excelente material que consiste en los logos del Club de Aventureros en alta calidad. El formato de los archivos es TIFF y esperamos que les sirvan para sus presentaciones, informes y otros hitos importantes de su club.
+                <a target="_blank" href="https://drive.google.com/drive/u/1/folders/1w9gmbz0-B58eE0y9RA7PacNKtUxd2LyJ"><b>Descargar</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
                       <img height="160px" width="160px" src="images/recursos/certificados_especialidades.png" class="img-box" alt="">
                     </td>
                     <td>
@@ -77,7 +108,7 @@ certificados de especialidad "/>
                 <td><div class="contenido-recursos">Te compartimos un afiche promocional para invitar a los niños
                 a inscribirse en tu club. Este material fue confeccionado en exclusiva por nuestra web. Esperamos
                 que les sea útil.
-                <a href="https://drive.google.com/open?id=0B8Z0Afv34Y_CN2NQZ0dpYUhEa2s"><b>Descargar</b></a> 
+                <a target="_blank" href="https://drive.google.com/open?id=0B8Z0Afv34Y_CN2NQZ0dpYUhEa2s"><b>Descargar</b></a> 
                  </div>
                  </td>
                  </tr>          
@@ -102,7 +133,7 @@ certificados de especialidad "/>
                 <td><div class="contenido-recursos">Uno de los momentos mas esperados por los aventureros y castorcitos
                 son las especialidades, con ellas ellos se hacen expertos en alguna temática por la cual reciben un parche
                 para poner en su banda. Algo que muchos no saben es que... 
-                <a href="http://www.somosaventureros.cl/certificados-de-especialidades-aventureros.php"><b>Leer Mas</b></a> 
+                <a target="_blank" href="http://www.somosaventureros.cl/certificados-de-especialidades-aventureros.php"><b>Leer Mas</b></a> 
                  </div>
                  </td>
                  </tr>          
