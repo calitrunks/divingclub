@@ -51,6 +51,11 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
     <!-- Slider -->
     <div class="mp-slider">
       <ul class="items">
+       <li><img src="images/slide-3.jpg" alt="">
+          <div class="banner"><div class="trans-slider"><span class="row-1">
+          <a href="recursos-para-el-club-de-aventureros-red-familiar.php">RED FAMILIAR DE AVENTUREROS</span><span class="row-2">
+          <b>TODO LO NECESARIO PARA INICIARLA EN TU CLUB</b></a></span></div></div>
+      </li>  
        <li><img src="images/slide-2.jpg" alt="">
           <div class="banner"><div class="trans-slider"><span class="row-1">
           <a target="_blank" href="https://www.facebook.com/groups/134523057239414">UNETE A LA COMUNIDAD</span><span class="row-2">
@@ -60,12 +65,7 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
           <div class="banner"><div class="trans-slider"><span class="row-1">
           <a href="http://localhost/divingclub/recursos-para-el-club-de-aventureros-capellania.php">NUEVA SECCIÓN</span><span class="row-2">
           <b>TODO EL MATERIAL PARA EL TRABAJO ESPIRITUAL DE TU CLUB </b></a></span></div></div>
-      </li>   
-      <li><img src="images/slide-3.jpg" alt="">
-          <div class="banner"><div class="trans-slider"><span class="row-1">
-          <a href="nuevo-logo-oficial-y-panolin-aventureros-division-sudamericana.php">NUEVO PAÑOLIN Y LOGO DE AVENTUREROS</span><span class="row-2">
-          <b>DIVISIÓN SUDAMERICANA PUBLICA DOCUMENTO OFICIAL</b></a></span></div></div>
-      </li> 
+      </li>         
       </ul>
       <a href="#" class="mp-prev"></a> <a href="#" class="mp-next"></a> </div>
     <!-- Content -->
@@ -86,15 +86,15 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
           <h3 class="hp-1">Lo mas reciente:</h3>
           <div class="wrapper">
             <div class="col-1">
+              <figure class="img-box"> <img src="images/page1-img3.jpg" alt=""> </figure>
+              <h5><div class="tit-news"><a href="nuevo-logo-oficial-y-panolin-aventureros-division-sudamericana.php">NUEVO LOGO</a></div></h5>
+              <p>La DSA publica documento oficial de los nuevos emblemas</p>
+            </div>
+            <div class="col-1">
               <figure class="img-box"> <img src="images/page1-img2.jpg" alt=""> </figure>
               <h5><div class="tit-news"><a href="libro-del-ano-aventureros-2018-cuentame-de-elena-de-white.php">LIBRO DEL AÑO 2018</a></div></h5>
-              <p> Conoce cual es el plan de lectura de aventureros para 2018.</p>
-            </div>
-           <div class="col-1">
-              <figure class="img-box"> <img src="images/page1-img3.jpg" alt=""> </figure>
-              <h5><div class="tit-news"><a target="_blank" href="https://youtu.be/VE5pPqIhHhk">ENTREVISTA</a></div></h5>
-              <p>Como hacer que tu club sea un canal de evangelismo</p>
-            </div>
+              <p> Conoce y descarga cual es el plan de lectura de aventureros para 2018.</p>
+            </div>           
              <div class="col-2">
               <figure class="img-box"> <img src="images/page1-img4.jpg" alt=""> </figure>
               <h5><div class="tit-news"><a href="encuentra-tu-club-de-aventureros.php">ENCUENTRA TU CLUB DE AVENTUREROS</a></div></h5>
@@ -102,8 +102,24 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
             </div>
           </div>
         </article>
+         <!-- <div>
+      <script>
+  (function() {
+    var cx = '015354502125881066677:msbwbszfz8c';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+    </div> -->
       </div>
+
     </section>
+    
     <!-- Footer -->
    <?php require_once("footer.php"); ?>
   </div>
@@ -115,3 +131,4 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
 
 </body>
 </html>
+

@@ -51,14 +51,15 @@
               <li><a href="recursos-para-el-club-de-aventureros-liderazgo.php">Liderazgo</a></li>
               <li><a href="recursos-para-el-club-de-aventureros-capellania.php">Capellania</a></li>
               <li> <a href="recursos-para-el-club-de-aventureros-manuales-y-reglamentos.php">Manuales y Reglamentos</a></li>
-              <li> <a href="recursos-para-el-club-de-aventureros-articulos-de-apoyo.php">Articulos</a></li>
+              <li> <a href="recursos-para-el-club-de-aventureros-red-familiar.php">Red Familiar</a></li>
               <li> <a href="recursos-para-el-club-de-aventureros-clases-progresivas.php">Clases Progresivas</a></li>
               <li> <a href="recursos-para-el-club-de-aventureros-castorcitos.php">Castorcitos</a></li>
               <li> <a href="recursos-para-el-club-de-aventureros-secretaria.php">Secretaria</a></li>
+                            <li> <a href="recursos-para-el-club-de-aventureros-articulos-de-apoyo.php">Articulos</a></li>
               <li><a href="entrevista-del-mes.php">La Entrevista del Mes</a></li>
             </ul> 
           </li>
-          <li><a class="boton" target="_blank" href="https://www.facebook.com/groups/134523057239414">Comunidad</a></li>
+         <li><a class="boton" target="_blank" href="https://www.facebook.com/groups/134523057239414">Comunidad</a></li>
         </ul>
       </nav>
       <div class="clear"></div>

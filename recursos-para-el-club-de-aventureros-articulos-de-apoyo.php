@@ -193,30 +193,7 @@ aventureros, tarjeta guia mayor de aventureros, herramientas para el trabajo de 
                  </tr>          
                 </table>
             </div>  
-            <!--fin recurso -->
-            <!--inicio recurso -->
-            <div class="recursos">
-                <table width="75%">
-                <tr>
-                    <td rowspan="2">
-                      <img height="160px" width="160px" src="images/recursos/rfa.jpg" class="img-box" alt="">
-                    </td>
-                    <td>
-                      <div class="titulo-recursos">
-                        <h6>¿COMO TRABAJAR CON LA RED FAMILIAR DE AVENTUREROS?</h6>
-                      </div>    
-                    </td>
-                </tr>          
-                <tr>
-                <td><div class="contenido-recursos">El club de aventureros es un ministerio de la iglesia adventista del 7° día,
-                que trabaja con los niños pero haciendo especial enfasis en las familias. Incluso la nueva edición del manual
-                administrativo de aventureros que saldrá pronto a ... <a href="como-trabajar-con-la-red-familiar-de-aventureros.php"><b>Ver Mas</b></a> 
-                 </div>
-                 </td>
-                 </tr>          
-                </table>
-            </div>  
-            <!--fin recurso -->
+            <!--fin recurso -->            
             <!--inicio recurso -->
             <div class="recursos">
                 <table width="75%">

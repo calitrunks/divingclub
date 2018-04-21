@@ -57,7 +57,7 @@
         </p>
         <p>Queremos invitarlos a Adquirirlo, tiene un costo en Chile de $3.920</p>
         <p>
-          <h4><a target="_blank" href="http://www.aceschile.cl/libro/Cuentame_de_Elena_de_White_-_Ilustrado-9023/"><strong>Mas información</strong></a></h4>
+          <h4><a target="_blank" href="https://drive.google.com/file/d/1ujmdrzSYcL5Q1AfgBttupGVG0ZipAVI0/view?usp=sharing"><strong>Descargar</strong></a></h4>
         </p>
         <!--Inicio Like Facebook-->
         <div class="fb-like" data-href="libro-del-ano-aventureros-2018-cuentame-de-elena-de-white.php" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
