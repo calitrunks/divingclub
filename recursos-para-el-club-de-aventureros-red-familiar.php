@@ -98,7 +98,7 @@ aventureros, Como trabajar cn la red familiar, red familiar de aventureros, RFA"
                 <tr>
                 <td><div class="contenido-recursos">
                 La siguiente presentación tiene 70 diapostivas con ideas practicas y concretas para trabajar con la Red Familiar de tu club. Es un excelente material desarrollado por la GM Yanina Melis, lider de amplia experiencia en la materia.
-                <a target="_blank" href="http://www.adventistas.org/es/ninos/proyecto/guardianes-los-tesoros/"><b>Descargar</b></a> 
+                <a target="_blank" href="https://drive.google.com/file/d/1XoQsaRbPmyRrmqPGJ6R-DwKtS7PpGZxq/view?usp=sharing"><b>Descargar</b></a> 
                  </div>
                  </td>
                  </tr>          

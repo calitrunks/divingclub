@@ -66,6 +66,27 @@ para el club de aventureros"/>
                 <table width="75%">
                 <tr>
                     <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/guia-clases.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>GUIA OFICIAL PARA TRABAJO CON CLASES PROGRESIVAS</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">Me nombraron consejero del club, y ahora ¿Como tomo la clase?. Es curioso que siendo los consejeros los que se encargan de desarrollar el curriculo del club con los aventureros, esta muchas veces sea tomada como una responsabilidad de menos importancia, muy pocas veces reciben el entrenamiento correspondiente y el...<a target="_blank" href="http://www.somosaventureros.cl/recursos-para-el-club-de-aventureros-guia-para-trabajar-con-clases-progresivas.php"><b>Leer Mas</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
                       <img height="160px" width="160px" src="images/recursos/gm_av.jpg" class="img-box" alt="">
                     </td>
                     <td>

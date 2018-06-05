@@ -87,8 +87,8 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
           <div class="wrapper">
             <div class="col-1">
               <figure class="img-box"> <img src="images/page1-img3.jpg" alt=""> </figure>
-              <h5><div class="tit-news"><a href="nuevo-logo-oficial-y-panolin-aventureros-division-sudamericana.php">NUEVO LOGO</a></div></h5>
-              <p>La DSA publica documento oficial de los nuevos emblemas</p>
+              <h5><div class="tit-news"><a href="recursos-para-el-club-de-aventureros-guia-para-trabajar-con-clases-progresivas.php">GUIA PARA CLASES PROGRESIVAS</a></div></h5>
+              <p>Una guia paso a paso para que cada consejero pueda desarrollar la clase con sus niños</p>
             </div>
             <div class="col-1">
               <figure class="img-box"> <img src="images/page1-img2.jpg" alt=""> </figure>

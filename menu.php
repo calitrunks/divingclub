@@ -59,7 +59,13 @@
               <li><a href="entrevista-del-mes.php">La Entrevista del Mes</a></li>
             </ul> 
           </li>
-         <li><a class="boton" target="_blank" href="https://www.facebook.com/groups/134523057239414">Comunidad</a></li>
+          <li> <a class="boton" href="#">Comunidad</a>
+            <ul>
+              <li><a onclick="ga('send', 'event', 'Fan Page', 'Click', 'Fan Page');" href="https://www.facebook.com/SomosAventurerosCL/" target="_blank">Pagina de Facebook</a></li>
+              <li> <a onclick="ga('send', 'event', 'Comunidad', 'Comunidad', 'Comunidad de Facebook');" target="_blank" href="https://www.facebook.com/groups/134523057239414" href="himno-del-club-castorcitos.php">Comunidad de Facebook</a></li>
+              <li> <a onclick="ga('send', 'event', 'Youtube', 'Click', 'Youtube');" href="https://www.youtube.com/channel/UCCT-W0vlN7tKAMkIsruK83w" target="_blank">Canal de Youtube</a></li>
+            </ul>
+          </li>        
         </ul>
       </nav>
       <div class="clear"></div>
