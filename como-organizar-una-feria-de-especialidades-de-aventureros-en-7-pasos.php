@@ -53,7 +53,7 @@
       <div class="content-child-pages">
 
         <h5><b>Como Organizar una Feria de Especialidades de Aventureros en 7 pasos</b></h5>
-        <p><img class="img-box" src="images/recursos/disciplina.png" /></p>
+        <p><img class="img-box" src="images/recursos/guia_feria.png" /></p>
         <p class="contenido-recursos">
          El Manual de Aventureros para la división sudamericana establece un total de 53 Especialidades, <a href="https://www.adventurer-club.org/adventurer-awards/overview" target="_blank">si a eso le sumamos las especialidades publicadas en ingles por el ministerio joven de la asociación general</a> el numero supera facilmente las 100. 
         </p>
@@ -62,7 +62,7 @@
         </p>
         <p class="contenido-recursos">
           <span><b>¿Que es una feria de especialidades?</b></span><br>
-          Es un programa que generalmente tiene un día de duración en donde el enfasis principal esta en que los niños puedan alcanzar nuevas especialidades, es decir, se enfoca principalmente en que los niños reciban instrucción sobre temas específicos, puede ser organizada por un club para sus integrantes o incluso que ese club invite a otros clubes tambien a participar, tambien es posible que el Distrito, Zona o Asociación o Misión preparen el programa. ¿Te gustaría saber como organizar una feria?,  sigue leyendo porque ahora vamos con una guía paso a paso para conseguirlo.
+          Como antes nos contó la GM Nalva Martins, <a href="http://www.somosaventureros.cl/como-organizar-una-feria-de-especialidades-de-aventureros.php" target="_blank">en un articulo muy interesante</a>, La feria es un programa que generalmente tiene un día de duración en donde el enfasis principal esta en que los niños puedan alcanzar nuevas especialidades, es decir, se enfoca principalmente en que los niños reciban instrucción sobre temas específicos, puede ser organizada por un club para sus integrantes o incluso que ese club invite a otros clubes tambien a participar, tambien es posible que el Distrito, Zona o Asociación o Misión preparen el programa. ¿Te gustaría saber como organizar una feria?,  sigue leyendo porque ahora vamos con una guía paso a paso para conseguirlo.
         </p>
         <p class="contenido-recursos">
           <span><b>1.- Planificar el Evento</b></span><br>
@@ -102,15 +102,15 @@
         </p>
         <p class="contenido-recursos">
           <span><b>6.- El día Esperado</b></span><br>
-        
+        ¡Llegó el día!, lo que estuvieron preparando con tu equipo es una realiad, las personas ya comienzan a detallar, tu estas pendiente de todos los detalles, tienes que saber que habrá imprevistos que resolver, algunas de las cosas no saldrán como tu querías, pero si seguiste los pasos 1 al 5 serán muy pocas y creeme esas cosas las notas solo los organizadores, con la ayuda de Dios todos irán contentos a casa, asi que ahora disfruta de tu feria de especialidades y agradece a Dios por permitirte impactar la vida de los niños.
         </p>
         <p class="contenido-recursos">
           <span><b>7.- Evaluación</b></span><br>
-        
+        Esto es algo que se suele hacer poco, pero es uno de los pasos mas importantes, ¿Se cumplieron los objetivos?, ¿Que cosas fallaron?, ¿Que se puede hacer para que la proxima version de tu feria no repita esos fallos?, Toma nota de todos estos detalles y revisenlos al año siguiente antes de empezar a trabajar en una nueva versión de la feria.
         </p>
         <p class="contenido-recursos">
           <span><b>CONCLUSIONES</b></span><br>
-        
+        Hemos llegado al final de esta guía, las ferias de especialidades pueden ser un programa de mucha bendición para quienes participan, pero sobre todo para quienes lo organizan, ¿Que esperas para empezar a planificar tu propia feria de especialidades?. Para darte una manito adicional te comparto el <a target="_blank" href='https://drive.google.com/file/d/1PxsmOhqDZssd-9oMu_fV8N1gdW_JqNA3/view?usp=sharing'>manual de orientaciones</a> de la ultima Feria de Especialidades del <a href="https://www.facebook.com/profile.php?id=100009162714091&ref=br_rs" target="_blank">Club Neftalí</a> en Chile, quienes ya llevan 3 ediciones del programa, muchas gracias al director del club <strong>Manuel Tapia</strong> por compartir este valioso material.
         </p>
 
         

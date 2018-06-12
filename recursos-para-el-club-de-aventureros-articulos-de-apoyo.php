@@ -63,6 +63,27 @@ aventureros, tarjeta guia mayor de aventureros, herramientas para el trabajo de 
                 <table width="75%">
                 <tr>
                     <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/guia_feria.png" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>COMO ORGANIZAR UNA FERIA DE ESPECIALIDADES DE AVENTUREROS EN 7 PASOS</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">El Manual de Aventureros para la división sudamericana establece un total de 53 Especialidades, <a href="https://www.adventurer-club.org/adventurer-awards/overview" target="_blank">si a eso le sumamos las especialidades publicadas en ingles por el ministerio joven de la asociación general</a> el numero supera facilmente las 100. .. <a href="como-organizar-una-feria-de-especialidades-de-aventureros-en-7-pasos.php"><b>Ver Mas</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
                       <img height="160px" width="160px" src="images/recursos/lideres.png" class="img-box" alt="">
                     </td>
                     <td>
