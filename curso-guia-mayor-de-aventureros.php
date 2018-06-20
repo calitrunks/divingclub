@@ -53,7 +53,7 @@ Recursos para el club de aventureros ,Materiales para el Club de Aventureros"/>
     <?php require_once("menu.php"); ?>
     <!-- Content -->
     <section id="content">
-      <div class="content-child-pages">
+      <div class="content-child-pages" style="overflow-y: scroll; height:500px;" >
 
         <h5>RECURSOS PARA EL CLUB DE AVENTUREROS - LIDERAZGO</h5>
             <div class="container">
@@ -173,14 +173,36 @@ Recursos para el club de aventureros ,Materiales para el Club de Aventureros"/>
                 </tr>          
                 <tr>
                 <td><div class="contenido-recursos">
-                En  este capitulo comentamos ideas para el trabajo con las clases bíblicas.
-                <p><iframe width="560" height="315" src="https://www.youtube.com/embed/6UQD5cmvOj8" frameborder="0" allowfullscreen></iframe</p>
+                En  este capitulo comentamos ideas para el trabajo con las clases bíblicas.                
+                <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/6UQD5cmvOj8" frameborder="0" allowfullscreen></iframe></p>
                  </div>
                  </td>
                  </tr>          
                 </table>
             </div>  
-            <!--fin recurso -->                                     
+            <!--fin recurso -->  
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td>
+                      <div class="titulo-recursos">
+                         <h6>CURSO GUIA MAYOR  - CAPITULO 07 - Realizar una progresiva clase hasta la investidura</h6>                         
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">
+                En este capitulo conversamos sobre como se deberian desarrollar los requisitos de clases progresivas, mas allá de ser un requisito para Guia Mayor creemos que es una excelente guía para los consejeros.
+                <p><iframe width="560" height="315" src="https://www.youtube.com/embed/x2N0kWn8XNI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <!--fin recurso -->                                            
+                                      
+                       
              <!--Inicio Like Facebook-->
             <div class="fb-like" data-href="http://www.somosaventureros.cl/curso-guia-mayor-de-aventureros.php" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
             <!--Inicio Comentarios Facebook-->        
