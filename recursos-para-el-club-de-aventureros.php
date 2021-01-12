@@ -102,6 +102,29 @@ manuales de aventureros, materiales para aventureros "/>
                 <table width="75%">
                 <tr>
                     <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/rfa.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <a href="recursos-para-el-club-de-aventureros-red-familiar.php"><b><h6>RED FAMILIAR</h6></b></a> 
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">Aqui podrás encontrar todo lo necesario para trabajar con la Red Familiar de tu club de Aventureros, incluida la guía oficial que el manual de aventureros entrega.
+                <a href="recursos-para-el-club-de-aventureros-red-familiar.php"><b>Entrar</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
                       <img height="160px" width="160px" src="images/recursos/articulos.png" class="img-box" alt="">
                     </td>
                     <td>

@@ -1,0 +1,114 @@
+/*Backgrounds*/
+.bg-burdeo{
+	background-color: #581220;
+}
+.bg-azul{
+	background-color: #25A8DB;
+}
+
+.bg-second{
+	background-color: #DB0F38;
+}
+/*Textos*/
+.text-burdeo{
+	color: #581220;
+}
+.text-sm{
+	font-size: .8rem;
+}
+.text-mini{
+	font-size: .6rem;
+}
+.ml-footer-45{
+	margin-left: 1.85rem!important;
+}
+/*Sections*/
+#hero{
+	background-image: url('../img/hero.jpg');  	
+    background-size:cover;
+    background-position: center top;
+    height: 100vh;
+}
+
+#hero h2{
+	margin-top: 5em !important;
+}
+
+#footer a:hover{
+	text-decoration: underline !important;
+}
+
+#footer-sm a:hover{
+	text-decoration: underline !important;
+}
+
+.no-vineta{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.text-sm-footer{
+	font-size: .9rem;
+}
+
+#content h4{
+	color:brown;
+}
+
+
+/*Navbar*/
+.custom-toggler.navbar-toggler {
+  border-color: #FFFFFF;
+} 
+
+.custom-toggler .navbar-toggler-icon { 
+	background-image: url( 
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
+}	
+        } 
+
+/*General*/
+.mx-12{
+	max-width: 12rem;
+}
+
+/*Efectos*/
+.recurso:hover{
+	transform: scale(1.1);	
+	-webkit-transition: transform .2s ease-in-out;
+}
+
+/*Mensajes*/
+.validation {
+    color: white;
+    display:none;
+    margin: 0 0 20px;
+    font-weight:normal;
+    font-size:13px;
+}
+#sendmessage {
+    color: white;
+    background-color: #55BF3C;
+    border:1px solid #55BF3C;
+    display:none;
+    text-align:center;
+    padding:15px;
+    font-weight:normal;
+    margin-bottom:15px;
+}
+
+#errormessage {
+    color: white;
+    background-color: red;
+    display:none;
+    border:1px solid red;
+    text-align:center;
+    padding:15px;
+    font-weight:normal;
+    margin-bottom:15px;
+}
+
+#sendmessage.show, #errormessage.show, .show {
+	display:block;
+}

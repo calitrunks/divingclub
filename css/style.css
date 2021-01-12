@@ -33,15 +33,14 @@ html {
 }
 /* Global Structure---------------------------------------- */
 .main {
-	margin:0 auto;
-	position:relative;
-	width:1000px;
-	background:url(../images/main-bg.png);
-	border-radius:4px;
+	margin:0 auto;	
+	position:relative;	
+	width: 80%;	
+	background:url(../images/main-bg.png);	
 	padding:0 0 10px 0;
 }
 .main-indents {
-	padding:50px 0;
+	padding:0px 0;
 }
 /*----- alignment & clearing -----*/
 .fleft {
@@ -1111,4 +1110,14 @@ table.fc-border-separate {
 }
 .contenido-recursos{
 	margin-left: 16px;
+}
+
+.no-vineta{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.text-sm-footer{
+	font-size: .9rem;
 }

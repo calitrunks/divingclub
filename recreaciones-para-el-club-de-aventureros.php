@@ -9,7 +9,7 @@
 Aventureros,Club"/>
 <meta name="Description" content="Recreacion para el club de Aventureros, ideas de recreacion
 para aventureros, Juegos para Aventureros, 
-Recursos para el club de aventureros ,Materiales para el Club de Aventureros"/>
+Recursos para el club de aventureros ,Materiales para el Club de Aventureros, Red Familiar"/>
 <meta name="Distribution" content="global"/>
 <meta name="Robots" content="all"/>
 <!--FIN METAS-->

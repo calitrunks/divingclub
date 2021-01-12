@@ -86,10 +86,12 @@ Abejitas Laboriosas, Materiales para el Club de Aventureros"/>
             <p>a) Hablar sobre el trabajo que realizan las personas en tu iglesia y descubrir una manera de ayudarlas.</p>
             <p><strong>3.- El mundo de la naturaleza </strong></p>
             <p>a) Completar la especialidad de Amigo de los Animales.</p>
-
             
-            <h7><p>Para desarrollar estos requisitos puede guiarse por el manual administrativo del Club de Aventureros, otro material util correponde a:</p></h7>
-            <h7><p><b>Cuadernillo de Clase:</b> Entrega ideas y pautas para cumplir cada requisito de la clase. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/file/d/0B8Z0Afv34Y_CbFc0aEhZWi1DM2s/view">aquí.</a></p></h7>
+            <h5 style="color:#0620A6">MATERIAL DE APOYO</h5>
+            
+            <h7><p>Para desarrollar estos requisitos puede guiarse por el <strong>manual administrativo del Club de Aventureros</strong>, otro material util correponde a:</p></h7>
+            <h7><p><b>Guia para consejeros:</b> Entrega ideas y pautas para saber como enseñar los requisitos a los aventureros. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/open?id=1n-2FMA4-ClN6ftkf6KU5_osCAOyPXhmz">aquí.</a></p></h7>  
+            <h7><p><b>Cuadernillo de Clase:</b> Entrega ideas para que los niños cumplan los requisitos. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/file/d/0B8Z0Afv34Y_CbFc0aEhZWi1DM2s/view">aquí.</a></p></h7>                      
             </p>
       </div>
     </section>

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>.::Somos Aventureros | El portal web con toda la información sobre club de aventureros::.</title>
+<title>Recursos para tu club de aventureros | Somos Aventureros</title>
 <!--INICIO METAS-->
 <meta charset="utf-8">
 <meta http-equiv="Content-Language" content="es"/>
-<meta name="Keywords" content="Aventureros,Club,Castorcitos,Abejitas"/>
-<meta name="Description" content="Club de Aventureros, Club de Castorcitos, 
+<meta name="Keywords" content="Club de Aventureros, Club de Castorcitos, 
 Recursos para el club de aventureros, Abejitas Laboriosas, Rayitos de Sol, 
 Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
+<meta name="Description" content="Recursos, Noticias y estrategias para lideres del club de aventureros de la iglesia adventista."/>
 <meta name="Distribution" content="global"/>
 <meta name="Robots" content="all"/>
 <!--FIN METAS-->
@@ -92,8 +92,8 @@ Constructores, Manos Ayudadoras, Materiales para el Club de Aventureros"/>
             </div>
             <div class="col-1">
               <figure class="img-box"> <img src="images/page1-img2.jpg" alt=""> </figure>
-              <h5><div class="tit-news"><a href="libro-del-ano-aventureros-2018-cuentame-de-elena-de-white.php">LIBRO DEL AÑO 2018</a></div></h5>
-              <p> Conoce y descarga cual es el plan de lectura de aventureros para 2018.</p>
+              <h5><div class="tit-news"><a href="libro-del-ano-aventureros-2020-aventuras-en-familia-2.php">LIBRO DEL AÑO 2020</a></div></h5>
+              <p> Todos los detalles del plan de lectura de aventureros para 2020.</p>
             </div>           
              <div class="col-2">
               <figure class="img-box"> <img src="images/page1-img4.jpg" alt=""> </figure>

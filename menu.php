@@ -1,3 +1,13 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62506720-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <style>
   .boton{
     -webkit-border-radius: 3px;
@@ -61,9 +71,9 @@
           </li>
           <li> <a class="boton" href="#">Comunidad</a>
             <ul>
-              <li><a onclick="ga('send', 'event', 'Fan Page', 'Click', 'Fan Page');" href="https://www.facebook.com/SomosAventurerosCL/" target="_blank">Pagina de Facebook</a></li>
-              <li> <a onclick="ga('send', 'event', 'Comunidad', 'Comunidad', 'Comunidad de Facebook');" target="_blank" href="https://www.facebook.com/groups/134523057239414" href="himno-del-club-castorcitos.php">Comunidad de Facebook</a></li>
-              <li> <a onclick="ga('send', 'event', 'Youtube', 'Click', 'Youtube');" href="https://www.youtube.com/channel/UCCT-W0vlN7tKAMkIsruK83w" target="_blank">Canal de Youtube</a></li>
+              <li><a href="https://www.facebook.com/SomosAventurerosCL/" onclick="ga('send', 'event', 'Facebook', 'Click', 'Fan Page',0);"  target="_blank">Pagina de Facebook</a></li>
+              <li> <a href="https://www.facebook.com/groups/134523057239414" onclick="ga('send', 'event', 'Facebook', 'Click', 'Grupo',100);" target="_blank">Comunidad de Facebook</a></li>
+              <li> <a href="#" target="_blank">Canal de Youtube</a></li>
             </ul>
           </li>        
         </ul>

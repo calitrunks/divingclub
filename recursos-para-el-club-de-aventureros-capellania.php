@@ -8,7 +8,7 @@
 <meta name="Keywords" content="Capellania, cursos, biblia"/>
 <meta name="Description" content="Club de Aventureros, 
 Recursos para el club de aventureros,Recursos para lideres de 
-aventureros, Cursos Biblicos, Guardianes de los tesoros, yo conozco mi historia"/>
+aventureros, Cursos Biblicos, Guardianes de los tesoros, yo conozco mi historia, manual de evangelismo club de aventureros"/>
 <meta name="Distribution" content="global"/>
 <meta name="Robots" content="all"/>
 <!--FIN METAS-->
@@ -58,6 +58,54 @@ aventureros, Cursos Biblicos, Guardianes de los tesoros, yo conozco mi historia"
             <div class="container">
             <div class="container" id="contenidos">
             <!--INICIO CONTENIDOS -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/manual-evangelismo-aventureros.png" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>GUIA PARA HACER EVANGELISMO CON CLUBES DE AVENTUREROS</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">
+               <b>¿Porque tenemos clubes de aventureros?.</b> Queremos llevar a los niños y sus familias a <b>conocer a Jesús</b>. Todo lo que hacemos en el club apunta a ese objetivo. Las especialidades, clases progresivas y hasta la recreación buscan que podamos <b>dejar sembrado en el corazón de los aventureros y sus apoderados</b> el mensaje de salvación. 
+               Este documento es de un valor incalculable, se trata de una <b>guía practica</b> para evangelizar a nuestro club y con nuestro club. Agradecemos grandemente al <b>Pastor Jose Pereira</b> por compartir este material con nosotros, que es el fruto de su experiencia en los años de ministerio implementando el club de aventureros como una de sus principales herramientas de evangelismo.
+               <a target="_blank" href="https://drive.google.com/file/d/1lXDU-Ndze-wMZlY7ojuTMggH7qgf5owp/view?usp=sharing"><b>Descargar</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/dias-me-ama-de-28-maneras.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>DIOS ME AMA DE 28 MANERAS</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">
+                Es de mucha importancia que los niños puedan entender las verdades que Dios nos ha reservado en su palabra, eso todos lo sabemos, pero no es tan facil de comunicar. ¿Como se le explica a un niño la trinidad?, ¿El plan de salvación? o ¿El estado de los muertos?. El curso Dios me ama de 28 maneras lo hace de una forma simple y divertida. Esta edicición especial esta difividad en 7 lecciones para cada clase progresiva(desde abejitas a manos ayudadoras) con actividades practicas para que los niños aprendan. Agradecemos a la <b>GM Elisa Veliz</b> de Chile por compartir este valioso material con nosotros.
+                <a target="_blank" href="https://drive.google.com/file/d/177gp0Q69WDzAo5fojgSk2HaOo6psW2V8/view?usp=sharing"><b>Descargar</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <!--fin recurso -->
             <!--inicio recurso -->
             <div class="recursos">
                 <table width="75%">
@@ -153,7 +201,7 @@ aventureros, Cursos Biblicos, Guardianes de los tesoros, yo conozco mi historia"
                 </table>
             </div>  
             <!--fin recurso -->
-             <!--inicio recurso -->
+            <!--inicio recurso -->
             <div class="recursos">
                 <table width="75%">
                 <tr>
@@ -170,13 +218,14 @@ aventureros, Cursos Biblicos, Guardianes de los tesoros, yo conozco mi historia"
                 <td><div class="contenido-recursos">
                 A traves de estas 12 lecciones los niños podran aprender las enseñanas del Señor adaptadas
                 un 100% a su realidad. Este curso es excelente para los niños que se estan acercandose a la etapa de la adolecencia.
-                <a target="_blank" href="https://www.recurso-adventista.com/2013/08/jsus-y-yo-curso-biblico-para-ninos.html"><b>Ver Mas</b></a> 
+                <a target="_blank" href="https://www.recursos-biblicos.com/2013/08/jesus-y-yo-curso-biblico-para-ninos.html"><b>Ver Mas</b></a> 
                  </div>
                  </td>
                  </tr>          
                 </table>
             </div>  
             <!--fin recurso -->
+           
             <!--FIN CONTENIDOS -->
               <!--Inicio Like Facebook-->
               <div class="fb-like" data-href="http://www.somosaventureros.cl/recursos-para-el-club-de-aventureros-capellania.php" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>

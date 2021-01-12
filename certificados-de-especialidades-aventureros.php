@@ -79,7 +79,7 @@ aventureros, Secretaria club de aventureros, Certificados de Especialidades. "/>
                 que respalda la realización de la especialidad, con lo cual en caso extravío del parche puede nuevamente adquirirse. 
                 Compartimos con ustedes una plantilla de certificados en la cual pueden completar los datos del lider
                 o niño para imprimirlos. Esperamos les sea de utilidad.
-                <a target="_blank" href="https://drive.google.com/file/d/0B8Z0Afv34Y_CS2lTeWtiX1c0eFU/view?usp=sharing"><b>Descargar</b></a> 
+                <a target="_blank" href="https://drive.google.com/file/d/197SzdJhXvNMlCaU_1NiIR1n5e3fnzuPl/view?usp=sharing"><b>Descargar</b></a> 
                  </div>
                  </td>
                  </tr>          

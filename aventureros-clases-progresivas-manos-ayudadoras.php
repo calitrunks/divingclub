@@ -105,9 +105,13 @@ Manos Ayudadoras, Materiales para el Club de Aventureros"/>
 		<p>a) Completar la especialidad de Ecología.</p>
 
 
-		<h6><p>Para desarrollar estos requisitos puede guiarse por el manual administrativo del Club de Aventureros, otro material util correponde a:</p></h6>
-
-		<h6><p><b>Cuadernillo de Clase:</b> Entrega ideas y pautas para cumplir cada requisito de la clase. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/open?id=0B8Z0Afv34Y_CRXA4djFQSGNiT3M">aquí.</a></p></h6>
+		<h5 style="color:#0620A6">MATERIAL DE APOYO</h5>
+            
+        <h7><p>Para desarrollar estos requisitos puede guiarse por el <strong>manual administrativo del Club de Aventureros</strong>, otro material util correponde a:</p></h7>
+            
+        <h7><p><b>Guia para consejeros:</b> Entrega ideas y pautas para saber como enseñar los requisitos a los aventureros. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/open?id=1-hCXKnWgGUxL1YOFK9e62YOmPOYO-i7l">aquí.</a></p></h7>  
+        
+        <h7><p><b>Cuadernillo de Clase:</b> Entrega ideas para que los niños cumplan los requisitos. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/open?id=0B8Z0Afv34Y_CRXA4djFQSGNiT3M">aquí.</a></p></h7>    
 
 		
       </div>

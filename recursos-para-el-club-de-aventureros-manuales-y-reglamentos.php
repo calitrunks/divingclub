@@ -5,11 +5,11 @@
 <!--INICIO METAS-->
 <meta charset="utf-8">
 <meta http-equiv="Content-Language" content="es"/>
-<meta name="Keywords" content="Castorcitos,Club,Aventureros, Manuales, Reglamentos"/>
+<meta name="Keywords" content="Castorcitos,Club,Aventureros, Manuales, Reglamentos, libros, marca"/>
 <meta name="Description" content="Club de Aventureros, 
 Recursos para el club de aventureros,Recursos para lideres de 
 aventureros, manuales de aventureros, manual de uniformes, manual de aventureros,
-reglamento de uniformes DSA, Manual de Aventureros 2016 en Español"/>
+reglamento de uniformes DSA, Manual de Aventureros 2016 en Español, libro de marca"/>
 <meta name="Distribution" content="global"/>
 <meta name="Robots" content="all"/>
 <!--FIN METAS-->
@@ -49,6 +49,29 @@ reglamento de uniformes DSA, Manual de Aventureros 2016 en Español"/>
             <div class="container">
                         <div class="container" id="contenidos">
             <!--INICIO CONTENIDOS -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/nuevo-reglamento-uniformes.png" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>REGLAMENTO DE UNIFORMES 2020 </h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">La DSA acaba de publicar una actualización a los uniformes del Club de Aventureros para toda la división sudamericana.
+                <a href="reglamento-uniformes-aventureros-2020.php"><b>Leer Mas</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
             <!--inicio recurso -->
             <div class="recursos">
                 <table width="75%">
@@ -102,6 +125,29 @@ reglamento de uniformes DSA, Manual de Aventureros 2016 en Español"/>
                 <table width="75%">
                 <tr>
                     <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/libro_marca.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>LIBRO DE MARCA - LOGOS OFICIALES, COLOR Y SIGNIFICADO DE LOS EMBLEMAS </h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">Que significa el color del pañolin?, esta y otras perguntas pueden ser respondidas revisando el siguiente material... 
+                <a href="libro-de-marca-club-de-aventureros.php"><b>Leer Mas</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
                       <img height="160px" width="160px" src="images/recursos/manual-aventureros-2016.png" class="img-box" alt="">
                     </td>
                     <td>
@@ -117,7 +163,7 @@ reglamento de uniformes DSA, Manual de Aventureros 2016 en Español"/>
                 aquellos que no lo pueda comprar o desean tenerlo. El siguiente link los llevará a una página amiga
                 llamada superconqui quienes se dieron el trabajo de compartirlo. Esperamos que sea de bendición
                 para todos.
-                <a target="_blank" href="http://superconqui.com/2016/manual-administrativo-aventureros/"><b>Descargar</b></a> 
+                <a target="_blank" href="https://drive.google.com/file/d/1IV6R_Ttrgmv75wYwra7u9iTviMERkTf4/view?usp=sharing"><b>Descargar</b></a> 
                  </div>
                  </td>
                  </tr>          

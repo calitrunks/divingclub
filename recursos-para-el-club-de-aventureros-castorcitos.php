@@ -7,8 +7,8 @@
 <meta http-equiv="Content-Language" content="es"/>
 <meta name="Keywords" content="Castorcitos,Club,Aventureros, Recursos, Ardillas, 
 Conejos, Castores, Cuadernillos"/>
-<meta name="Description" content="Club de Aventureros, 
-Recursos para el club de aventureros, Cuanernillo Ardillas,
+<meta name="Description" content="Club de Aventureros, Especialidades Castorcitos, 
+Recursos para el club de aventureros, Cuadernillo Ardillas,
 Cuadernillos Castorcitos, Cuadernillo Conejos,
 Cuadernillos Castores,Materiales para el Club de Aventureros,
 Materiales para el Club de Castorcitos"/>
@@ -61,6 +61,28 @@ Materiales para el Club de Castorcitos"/>
             <div class="container">
                         <div class="container" id="contenidos">
             <!--INICIO CONTENIDOS -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/especialidades_castorcitos.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>ESPECIALIDADES PARA NIÑOS DE 3, 4 Y 5 AÑOS</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">Este es un excelente material de la divisón norteamericana, se trata de un completo listado de especialidades para niños de 3,4 y 5 años en español. Queremos agradecer a la <strong>GM Pilar Brante</strong> por darse el tiempo de traducir este contenido y compartirlo con todos nosotros. <a target="_Blank" href="https://drive.google.com/file/d/1Gbe-llmhKLCHxusMr-N6511oA2SFCaWo/view?usp=sharing"><b>Descargar</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
             <!--inicio recurso -->
             <div class="recursos">
                 <table width="75%">

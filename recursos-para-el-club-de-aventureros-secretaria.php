@@ -6,11 +6,11 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Language" content="es"/>
 <meta name="Keywords" content="Castorcitos,Club,Aventureros, Informes, Secretaria,
-Fichas, Inscripcion, Afiche Inscripcion, logos aventureros 2018 alta calidad"/>
+Fichas, Inscripcion, Afiche Inscripcion, logos aventureros 2018 alta calidad, certificados de especialidad"/>
 <meta name="Description" content="Club de Aventureros, 
 Recursos para el club de aventureros,Recursos para lideres de 
 aventureros, Secretaria club de aventureros, fichas de inscripción de aventureros,
-certificados de especialidad, logos aventureros 2018 alta calidad "/>
+certificados de especialidad, logos aventureros 2018 alta calidad, Afiche promocional "/>
 <meta name="Distribution" content="global"/>
 <meta name="Robots" content="all"/>
 <!--FIN METAS-->
@@ -96,7 +96,7 @@ certificados de especialidad, logos aventureros 2018 alta calidad "/>
                 <table width="75%">
                 <tr>
                     <td rowspan="2">
-                      <img height="160px" width="160px" src="images/recursos/certificados_especialidades.png" class="img-box" alt="">
+                      <img height="160px" width="160px" src="images/recursos/avatar_afiche.png" class="img-box" alt="">
                     </td>
                     <td>
                       <div class="titulo-recursos">

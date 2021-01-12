@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Language" content="es"/>
 <meta name="Keywords" content="RFA, Red, Familiar, Aventureros"/>
-<meta name="Description" content="Club de Aventureros, 
+<meta name="Description" content="Plan de Trabajo RFA, Club de Aventureros, 
 Recursos para el club de aventureros,Recursos para lideres de 
 aventureros, Como trabajar cn la red familiar, red familiar de aventureros, RFA"/>
 <meta name="Distribution" content="global"/>
@@ -63,6 +63,78 @@ aventureros, Como trabajar cn la red familiar, red familiar de aventureros, RFA"
                 <table width="75%">
                 <tr>
                     <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/rfa-06.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>OMA 10 - FUNCIONES DE LOS PADRES EN EL CLUB</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">
+                Nueva orientación oficial para la <strong>Red Familiar de Aventureros</strong> en Sudamerica, que permite incluso que <strong>los padres usen uniforme de Gala</strong>.  
+                <a  href="oma-10-club-de-aventureros-rfa.php"><b>Leer mas</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/rfa-04.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>ESCUELA PARA PADRES - PADRES BRILLANTES</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">
+                Esta presentación explica de manera muy concreta la importancia de <strong>no conformarnos</strong> con ser <strong>padres buenos</strong> con nuestros hijos, sino <strong>padres brillantes</strong> que marquen sus vidas para bien.Este material es de alto valor practico y espiritual para ser aplicado en los programas de la RFA de tu club. Queremos agradecer al <strong>GM David Sandoval</strong>, lider de mucha experiencia en nuestra iglesia quien compartió este contenido con nosotros.Tenemos la seguridad que será de <strong>gran bendición</strong> para tu club. 
+                <a target="_blank" href="https://drive.google.com/open?id=0B8Z0Afv34Y_CdktWYW05dDd2YWtJN1JhQ3JTMk96aVRKR3pF"><b>Descargar</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/rfa-05.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>VIVA LA DIFERENCIA</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">
+                Para cumplir de buena forma el rol de padres, el primer paso es poder <strong>tener una sana relación con nuestro conyuge</strong> que pueda proyectarse a nuestros hijos. En esta presentación se explica de manera muy directa las <strong>diferencias entre hombres y mujeres</strong> y la importancia de satisfacer las <strong>necesidades mutuas</strong> en el matrimonio.Este material es de alto valor practico y espiritual para ser aplicado en los programas de la RFA de tu club. Queremos agradecer al <strong>GM David Sandoval</strong>, lider de mucha experiencia en nuestra iglesia quien compartió este contenido con nosotros.Tenemos la seguridad que será de <strong>gran bendición</strong> para tu club. 
+                <a target="_blank" href="https://drive.google.com/open?id=0B8Z0Afv34Y_CbVpjZ2FwRjJKeV9qNjd3WXFYcS1ya09XcTZj"><b>Descargar</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>  
+            <br>
+            <!--fin recurso -->
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
                       <img height="160px" width="160px" src="images/recursos/rfa-01.jpg" class="img-box" alt="">
                     </td>
                     <td>
@@ -73,15 +145,39 @@ aventureros, Como trabajar cn la red familiar, red familiar de aventureros, RFA"
                 </tr>          
                 <tr>
                 <td><div class="contenido-recursos">
-                La RFA es uno de los programas mas nuevos del club de aventureros en el sentido formal, ya que siempre el club de aventureros ha sido un ministerio familiar, sin embargo en los ultimos años la DSA se ha preocupado de proveer abundante material y guias para que hagamos un trabajo de acuerdo al deseo del Señor. El siguiente documento es un extracto del Manual Administrativo del Club de Aventureros y es una lectura obligatoria para cualquier persona que este interesada en iniciar el trabajo de la Red Familar en su club. 
+                La RFA es uno de <strong>los programas mas nuevos del club de aventureros</strong> en el sentido formal, ya que siempre el club de aventureros ha sido un <strong>ministerio familiar</strong>, sin embargo en los ultimos años la DSA se ha preocupado de proveer abundante material y guias para que hagamos <strong>un trabajo de acuerdo al deseo del Señor</strong>. El siguiente documento es un <strong>extracto del Manual Administrativo del Club de Aventureros</strong> y es una lectura obligatoria para cualquier persona que este interesada en iniciar el trabajo de la <strong>Red Familar</strong> en su club. 
                 <a target="_blank" href="https://drive.google.com/open?id=15HA56tppvkqBVvYHeSiKZ_HFUNMOxE1j"><b>Descargar</b></a> 
+                 </div>
+                 </td>
+                 </tr>          
+                </table>
+            </div>       
+            <!--fin recurso -->
+            <br>           
+            <!--inicio recurso -->
+            <div class="recursos">
+                <table width="75%">
+                <tr>
+                    <td rowspan="2">
+                      <img height="160px" width="160px" src="images/recursos/rfa-03.jpg" class="img-box" alt="">
+                    </td>
+                    <td>
+                      <div class="titulo-recursos">
+                        <h6>PLAN DE TRABAJO ANUAL PARA LA RED FAMILIAR</h6>
+                      </div>    
+                    </td>
+                </tr>          
+                <tr>
+                <td><div class="contenido-recursos">
+                Una de las dudas mas frecuentes que nos hacen llegar es <b>como se debería desarrollar una Red Familiar de Aventureros en el club</b>. El material que podras descargar a continuación <b>es de alta calidad</b>. Se trata de un <b>plan de trabajo anual para la RFA</b> y el contenido de al menos 6 reuniones para el trabajo con tus apoderados. Agradecemos al <b>GM Gonzalo Braun</b> y su esposa <b>Gipsy Jara</b>, encargados de la RFA del Club de Aventureros Jezreel en Quilpué - Chile, que se reunen cada semana(si, leiste bien <strong>cada día de reunión de club</strong>) con los apoderados y desarrollan un trabajo basado 100% en las <strong>secciones de las clases de aventureros</strong>(Mi Dios, Mi Familia, etc). Sabemos que será de bendición para ti.
+                <a target="_blank" href="https://drive.google.com/open?id=1vhVYhHOveppqPZ2ho93_vwtOKMTUYusy"><b>Descargar</b></a> 
                  </div>
                  </td>
                  </tr>          
                 </table>
             </div>  
             <!--fin recurso -->
-            <br>                      
+            <br>                
             <!--inicio recurso -->
             <div class="recursos">
                 <table width="75%">

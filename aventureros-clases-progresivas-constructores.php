@@ -92,8 +92,15 @@ Constructores, Materiales para el Club de Aventureros"/>
 		<p>b) Saber el nombre de la capital de tu país y del presidente.</p>
 		<p><strong>3.- El mundo de la Naturaleza:</strong></p>
 		<p>a) Completar una especialidad del área de la naturaleza que aún no haya sido hecha.</p>
-		<h6><p>Para desarrollar estos requisitos puede guiarse por el manual administrativo del Club de Aventureros, otro material util correponde a:</p></h6>
-		<h6><p><b>Cuadernillo de Clase:</b> Entrega ideas y pautas para cumplir cada requisito de la clase. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/open?id=0B8Z0Afv34Y_CeXc2MTRiNGw5clU">aquí.</a></p></h6>
+		
+		<h5 style="color:#0620A6">MATERIAL DE APOYO</h5>
+            
+        <h7><p>Para desarrollar estos requisitos puede guiarse por el <strong>manual administrativo del Club de Aventureros</strong>, otro material util correponde a:</p></h7>
+            
+        <h7><p><b>Guia para consejeros:</b> Entrega ideas y pautas para saber como enseñar los requisitos a los aventureros. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/open?id=1y-ZBcLAyLYSjrE4uEjI-ueZjfzstUc2z">aquí.</a></p></h7>  
+        
+        <h7><p><b>Cuadernillo de Clase:</b> Entrega ideas para que los niños cumplan los requisitos. Puedes descargarlo desde <a target="_Blank" href="https://drive.google.com/open?id=0B8Z0Afv34Y_CeXc2MTRiNGw5clU">aquí.</a></p></h7>    
+	
       </div>
     </section>
     <!-- Footer -->
